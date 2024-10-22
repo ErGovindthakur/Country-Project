@@ -1,0 +1,87 @@
+[
+     {
+       "id": 1,
+       "countryName": "India",
+       "capital": "New Delhi",
+       "population": 1407563842,
+       "interestingFact": "India is the world's largest democracy."
+     },
+     {
+       "id": 2,
+       "countryName": "Japan",
+       "capital": "Tokyo",
+       "population": 125800000,
+       "interestingFact": "Japan is home to more than 6,800 islands."
+     },
+     {
+       "id": 3,
+       "countryName": "Canada",
+       "capital": "Ottawa",
+       "population": 38008005,
+       "interestingFact": "Canada has the longest coastline in the world."
+     },
+     {
+       "id": 4,
+       "countryName": "Brazil",
+       "capital": "Brasília",
+       "population": 213993437,
+       "interestingFact": "Brazil is the largest producer of coffee in the world."
+     },
+     {
+       "id": 5,
+       "countryName": "Australia",
+       "capital": "Canberra",
+       "population": 25687041,
+       "interestingFact": "Australia has more kangaroos than people."
+     },
+     {
+       "id": 6,
+       "countryName": "Germany",
+       "capital": "Berlin",
+       "population": 83166711,
+       "interestingFact": "Germany is home to over 1,500 different types of sausages."
+     },
+     {
+       "id": 7,
+       "countryName": "Egypt",
+       "capital": "Cairo",
+       "population": 109262178,
+       "interestingFact": "The Great Pyramid of Giza is the oldest of the Seven Wonders of the Ancient World."
+     },
+     {
+       "id": 8,
+       "countryName": "South Korea",
+       "capital": "Seoul",
+       "population": 51780579,
+       "interestingFact": "South Korea is known for its high-speed internet and technology advancements."
+     },
+     {
+       "id": 9,
+       "countryName": "Mexico",
+       "capital": "Mexico City",
+       "population": 126705138,
+       "interestingFact": "Mexico introduced chocolate, corn, and chilies to the world."
+     },
+     {
+       "id": 10,
+       "countryName": "Italy",
+       "capital": "Rome",
+       "population": 59030000,
+       "interestingFact": "Italy is home to the largest number of UNESCO World Heritage sites."
+     },
+     {
+       "id": 11,
+       "countryName": "Russia",
+       "capital": "Moscow",
+       "population": 144104080,
+       "interestingFact": "Russia spans 11 time zones, the most of any country."
+     },
+     {
+       "id": 12,
+       "countryName": "France",
+       "capital": "Paris",
+       "population": 67413000,
+       "interestingFact": "The Eiffel Tower in Paris was originally intended to be dismantled after 20 years."
+     }
+   ]
+   
